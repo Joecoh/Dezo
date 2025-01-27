@@ -20,7 +20,7 @@ To run the project on your local system:
 
 Clone the repository:
 
-git clone <>
+git clone https://github.com/Joecoh/Dezo-iOS
 
 Open the project in Xcode.
 
